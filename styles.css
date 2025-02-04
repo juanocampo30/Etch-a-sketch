@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contenedorBotones{
+    margin-bottom: 10px;
+}
+
+.contenedorDivs{
+    display: flex;
+    width: 80%;
+    height: 80%;
+    border: 2px solid black;
+    flex-wrap: wrap;
+}
